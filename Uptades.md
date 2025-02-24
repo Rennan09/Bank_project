@@ -1,5 +1,10 @@
 # Uptades
 
+## 24/02/2025
+
+### 
+* The code now follow the OOP parameters
+* The entire code has been updated with help of DIO instructions
 
 ## 21/02/25
 ### V:  0.3
